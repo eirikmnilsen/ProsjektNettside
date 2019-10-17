@@ -1,0 +1,19 @@
+#info {
+    display: grid;
+    position: absolute;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    bottom: 0px;
+    height: 200px;
+    background-color: rgb(206, 81, 81);
+    
+}
+
+p:first-child {
+    font-size: 1.5em;
+}
+
+#ferarinorge {
+    color: black;
+}
