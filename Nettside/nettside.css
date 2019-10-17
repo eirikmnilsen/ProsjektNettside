@@ -5,8 +5,8 @@ body {
 
 #bilde img {
     position: absolute;
-    width: 99%;
-    white-space: nowrap;
+    width: 101.5%;
+    margin-left: -10px;
 }
 
 #bar {
