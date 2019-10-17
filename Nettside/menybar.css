@@ -1,0 +1,39 @@
+#meny {
+    position: fixed;
+    list-style-type: none;
+    overflow: hidden;
+    margin: -10px;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    background-color: #333;
+    border: 1px solid black;
+    z-index: 10;
+}
+
+#meny li a {
+    display: block;
+    text-align: center;
+    width: 60px;
+    float: left;
+    padding: 14px 16px;
+    margin-left: 5px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+#meny li a:hover {
+    background-color: white;
+    transition: 1s;
+}
+
+#meny li:hover a:visited,
+#meny li:hover a,
+#meny li a:hover {
+    color: black;
+}
+
+a:visited {
+    color: white;
+}
