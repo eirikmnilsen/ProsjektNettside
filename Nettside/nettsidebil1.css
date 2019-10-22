@@ -1,0 +1,9 @@
+#annonser {
+    display: grid;
+    position: absolute;
+    top: 1000px;
+}
+
+#annonser img {
+    width: 25%;
+}
