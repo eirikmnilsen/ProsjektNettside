@@ -6,6 +6,10 @@
     font-family: sans-serif;
 }
 
+#annonser {
+    color: black;
+}
+
 #annonser #bil1 {
     text-align: center;
     padding: 10px;

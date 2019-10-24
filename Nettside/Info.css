@@ -7,9 +7,10 @@
     bottom: 0px;
     height: 200px;
     background-color: rgb(206, 81, 81);
-    top: 1800px;
+    top: 1900px;
     padding: 2em;
     margin: -10px;
+    
 }
 
 p:first-child {
