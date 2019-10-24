@@ -1,0 +1,29 @@
+#brukernavn {
+   color: blue;
+   display:grid;
+}
+#passord {
+    color: brown;
+    
+}
+#logginnknapp {
+    color: blueviolet;
+    
+}
+
+#boks {
+    position:absolute;
+    width: 50%;
+    top:50%;
+    left: 25%;
+    text-align:center;
+    
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#boks > div {
+    align-self: left;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+}

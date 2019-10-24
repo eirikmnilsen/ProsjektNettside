@@ -48,3 +48,9 @@ a:visited {
     text-decoration: none;
     color: white;
 }
+
+#login {
+    position: absolute;
+    right:10px;
+    top:4px;
+}
