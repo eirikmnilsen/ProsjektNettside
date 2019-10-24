@@ -36,3 +36,9 @@
 a:visited {
     color: white;
 }
+
+#login {
+    position: absolute;
+    right:10px;
+    top:4px;
+}
